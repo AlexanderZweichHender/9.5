@@ -7,7 +7,6 @@ C:\Users\ashpu\OneDrive\Рабочий стол\Homework\9.5\9.5\9.5\9.5\obj\Deb
 C:\Users\ashpu\OneDrive\Рабочий стол\Homework\9.5\9.5\9.5\9.5\obj\Debug\net7.0-windows\MainWindow.g.cs
 C:\Users\ashpu\OneDrive\Рабочий стол\Homework\9.5\9.5\9.5\9.5\obj\Debug\net7.0-windows\App.g.cs
 C:\Users\ashpu\OneDrive\Рабочий стол\Homework\9.5\9.5\9.5\9.5\obj\Debug\net7.0-windows\9.5_MarkupCompile.cache
-C:\Users\ashpu\OneDrive\Рабочий стол\Homework\9.5\9.5\9.5\9.5\obj\Debug\net7.0-windows\9.5_MarkupCompile.lref
 C:\Users\ashpu\OneDrive\Рабочий стол\Homework\9.5\9.5\9.5\9.5\obj\Debug\net7.0-windows\MainWindow.baml
 C:\Users\ashpu\OneDrive\Рабочий стол\Homework\9.5\9.5\9.5\9.5\obj\Debug\net7.0-windows\9.5.g.resources
 C:\Users\ashpu\OneDrive\Рабочий стол\Homework\9.5\9.5\9.5\9.5\obj\Debug\net7.0-windows\9.5.GeneratedMSBuildEditorConfig.editorconfig

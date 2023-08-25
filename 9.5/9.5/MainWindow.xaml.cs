@@ -7,22 +7,6 @@ namespace _9._5
         public MainWindow()
         {
             InitializeComponent();
-        }
-
-        private void ButtonOnClicked(object sender, RoutedEventArgs e) 
-        {
-            var text = textBox.Text;
-            if (!string.IsNullOrEmpty(text))
-            {
-                var words = text.Split(' ');
-
-                foreach (var word in words)
-                    listBox.Items.Add(word);
-            }
-            else
-            {
-                MessageBox.Show("text is empty");
-            }
-        }
+        }        
     }
 }
