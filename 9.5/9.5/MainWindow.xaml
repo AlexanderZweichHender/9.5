@@ -9,15 +9,15 @@
                 <Grid Background="DarkGray">
                     <Label Content="Enter some text:" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="20" Foreground="WhiteSmoke"/>
                     <TextBox x:Name="inputTextBox" HorizontalAlignment="Center" VerticalAlignment="Top" Height="50" Width="300" Margin="100"/>
-                    <Button Content="Split" HorizontalAlignment="Center" VerticalAlignment="Center" Height="30" Width="150" FontSize="20"/>
+                    <Button Content="Split" HorizontalAlignment="Center" VerticalAlignment="Center" Height="30" Width="150" FontSize="20" Click="OnSplitButtonClicked"/>
                     <ListBox x:Name="outputListBox" HorizontalAlignment="Center" VerticalAlignment="Bottom"  Height="150" Width="300" Margin="25"/>
                 </Grid>
             </TabItem>
             <TabItem Height="20" Width="40">
                 <Grid Background="darkGray">
                     <Label Content="Enter some text:" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="20" Foreground="WhiteSmoke"/>
-                    <TextBox x:Name="TextBox" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-                    <Button Content="Change" HorizontalAlignment="Center" VerticalAlignment="Center" Height="30" Width="150" FontSize="20"/>
+                    <TextBox x:Name="textBox" HorizontalAlignment="Center" VerticalAlignment="Top" Height="50" Width="300" Margin="100"/>
+                    <Button Content="Reverse" HorizontalAlignment="Center" VerticalAlignment="Center" Height="30" Width="150" FontSize="20" Click="ReverseButtonOnClicked"/>
                     <Label x:Name="outputLabel" HorizontalAlignment="Center" VerticalAlignment="Bottom" Height="150" Width="300" Margin="25"/>
                 </Grid>
             </TabItem>
